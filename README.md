@@ -46,9 +46,12 @@ int main() {
 }
 <h2>Схема</h2>
 
-![14141](https://github.com/user-attachments/assets/35504a3d-2747-4077-8ad5-cef594632ec0)
+<img width="695" height="801" alt="image" src="https://github.com/user-attachments/assets/b6ab55e2-9736-4ac8-8436-a3d35708ff49" />
+
 
 
 <h2>Консоль</h2>
 
-![photo_2025-11-03_13-33-47](https://github.com/user-attachments/assets/b90de5c6-7645-4632-995a-5bb2660a47d6)
+<img width="532" height="248" alt="image" src="https://github.com/user-attachments/assets/e60b3629-36e2-4020-ac0f-0edf520fb481" />
+
+
